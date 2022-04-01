@@ -1,0 +1,31 @@
+body{
+    background-color: dodgerblue;
+    color: rgb(224, 214, 201);
+}
+h1{
+    font-family: 'BIZ UDPMincho', serif;
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+@font-face{
+    font-family: 'fahad';
+    src: url('static/OpenSans/OpenSans-Bold.ttf');
+}
+
+@font-face{
+    font-family: 'fahad2.0';
+    src: url('SendFlowers-Regular.ttf');
+}
+h3{
+    font-family: 'fahad';
+}
+
+p{
+    font-family: cursive;
+}
+.credits{
+    font-family: 'fahad2.0';
+}
